@@ -9,7 +9,7 @@ Inner Circle 3기 오픈소스 라이브러리 제작 프로젝트. 3~4주차 �
 
 ## 작업 방법
 
-- 12월 7일 (토) 22시까지 `본인이름 - 라이브러리 주제`를 제목으로 한 [이슈를 등록](https://github.com/InnerCircle-ICD3/fe-library/issues/new/choose) (`OSS 프로젝트` 템플릿 사용)
+- 3월 5일 (토) 22시까지 `본인이름 - 라이브러리 주제`를 제목으로 한 [이슈를 등록](https://github.com/InnerCircle-ICD3/fe-library/issues/new/choose) (`OSS 프로젝트` 템플릿 사용)
   - 아직 작성이 끝나지 않은 이슈에는 `WIP` 라벨을 붙여주세요.
 - 이슈를 통해 리더와 상의 후 프로젝트를 확정하고 진행. 확정된 프로젝트에는 리더가 `Go Ahead` 라벨을 붙입니다. 이 라벨이 붙은 경우는 바로 진행하시면 됩니다.
 - ⚠️ **개인 계정에 프로젝트 저장소를 만듭니다**
